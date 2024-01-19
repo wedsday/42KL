@@ -33,6 +33,4 @@ Recreate some of the standard functions in C.
   substr
   tolower
   toupper
-![image](https://github.com/wedsday/42KL/assets/71377019/1e94a672-c080-40bf-ad63-76e1c652a2e4)
-
 </p>
